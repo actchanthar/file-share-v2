@@ -1,7 +1,7 @@
-pyrogram
-pyrofork==2.3.38 
+#https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
+pyrofork==2.3.45 
 TgCrypto
-pyromod
+pyromod==1.5
 humanize
 schedule
 APscheduler
@@ -16,5 +16,6 @@ python-dotenv
 pytz
 requests
 bs4
+shortzy
 aiofiles
 asyncio
